@@ -117,7 +117,7 @@
 </template>
 
 <script>
-// import '../assets/js/main.js';
+import '../assets/js/main.js';
 
 export default {
   name: "Services"
