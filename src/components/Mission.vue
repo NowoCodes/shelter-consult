@@ -2,7 +2,6 @@
   <!-- ======= Our Services Section ======= -->
   <section id="mission" class="mission">
     <div class="container">
-
       <div class="section-title">
         <h2>Mission and Vision Statement</h2>
       </div>
@@ -13,9 +12,9 @@
             <div class="icon"><i class="bx bx-file"></i></div>
             <h4 class="title text-uppercase">Mission Statement</h4>
             <p class="description">
-              To adopt internationally accepted standards,
-              processes and procedures that ensures cost effectiveness and timely
-              delivery of projects
+              To adopt internationally accepted standards, processes and
+              procedures that ensures cost effectiveness and timely delivery of
+              projects
             </p>
           </div>
         </div>
@@ -25,14 +24,12 @@
             <div class="icon"><i class="bx bx-world"></i></div>
             <h4 class="title text-uppercase">Vision Statement</h4>
             <p class="description">
-              To be recognized as a leading provider of solutions to
-              effective provision of SHELTER related projects
+              To be recognized as a leading provider of solutions to effective
+              provision of SHELTER related projects
             </p>
           </div>
         </div>
-
       </div>
-
     </div>
   </section>
   <!-- End Our Services Section -->
@@ -40,10 +37,8 @@
 
 <script>
 export default {
-  name: "Mission"
-}
+  name: "Mission",
+};
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
