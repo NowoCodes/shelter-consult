@@ -15,7 +15,7 @@
               specialization, the firm was divided into four department
               providing services in Architecture, Design, Construction and
               Project Management.
-              <br /><br />
+              <br/><br/>
               Shelter Consult (SC) is recognized as a rapidly growing firm of
               Architects, Engineers and Project Managers who are professionally
               qualified members and registered members of their various
@@ -30,12 +30,12 @@
               At Shelter Consult, provision of shelter is given global
               consideration especially the influence of both the micro and macro
               environment on the abode of human habitat.
-              <br /><br />
+              <br/><br/>
               In order to effectively serve our clients, the firm has liaison
               offices in major cities in Nigeria. These liaison offices are
               being headed by management staff in the firm who are
               professionally qualified.
-              <br /><br />
+              <br/><br/>
               With over 35 years of practice experience between the management
               staff, Shelter Consult has continued to wax stronger providing
               services which are aimed at not only providing shelter but also
@@ -52,7 +52,7 @@
 </template>
 
 <script>
-import Mission from "@/components/Mission";
+import Mission from "../components/Mission";
 
 export default {
   components: {

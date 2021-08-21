@@ -1,6 +1,6 @@
 <template>
-  <!-- ======= Our Services Section ======= -->
-  <section id="mission" class="mission">
+  <!-- ======= Our Mission Section ======= -->
+  <section id="mission" class="services">
     <div class="container">
       <div class="section-title">
         <h2>Mission and Vision Statement</h2>
@@ -32,7 +32,7 @@
       </div>
     </div>
   </section>
-  <!-- End Our Services Section -->
+  <!-- End Our Mission Section -->
 </template>
 
 <script>
