@@ -8,7 +8,7 @@
     <!--      <router-link to="/about">About</router-link>-->
     <!--    </div>-->
 
-    <router-view/>
+    <router-view />
 
     <Footer></Footer>
   </div>
@@ -23,7 +23,7 @@ export default {
   components: {
     Hero,
     Header,
-    Footer
-  }, 
-}
+    Footer,
+  },
+};
 </script>
