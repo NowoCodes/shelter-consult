@@ -5,7 +5,5 @@ module.exports = {
             exclude: [/_redirects/]
         }
     },
-    publicPath: process.env.NODE_ENV === 'production'
-        ? '/shelter-consult/'
-        : '/'
+    publicPath: '/shelter-consult/'
 }
