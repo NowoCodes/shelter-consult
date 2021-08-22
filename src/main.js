@@ -22,6 +22,6 @@ import "./assets/vendor/swiper/swiper-bundle.min.js";
 import "./assets/vendor/waypoints/noframework.waypoints.js";
 
 // <!-- Template Main JS File -->
-import './assets/js/main.js';
+import './assets/js/main';
 
 createApp(App).use(router).mount("#app");

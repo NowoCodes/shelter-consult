@@ -3,10 +3,10 @@
   <section id="hero">
     <div class="hero-container">
       <div
-        id="heroCarousel"
-        class="carousel slide carousel-fade"
-        data-bs-ride="carousel"
-        data-bs-interval="5000"
+          id="heroCarousel"
+          class="carousel slide carousel-fade"
+          data-bs-ride="carousel"
+          data-bs-interval="5000"
       >
         <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
 
@@ -22,15 +22,6 @@
                 <p class="display-6 animate__animated animate__fadeInUp">
                   GRAPHIC REPRESENTATION - SKYFIELD ESTATE AJAH, LAGOS
                 </p>
-                <a
-                  href="#home"
-                  class="
-                    btn-get-started
-                    animate__animated animate__fadeInUp
-                    scrollto
-                  "
-                  >Get Started</a
-                >
               </div>
             </div>
           </div>
@@ -123,26 +114,26 @@
         </div>
 
         <a
-          class="carousel-control-prev"
-          href="#heroCarousel"
-          role="button"
-          data-bs-slide="prev"
+            class="carousel-control-prev"
+            href="#heroCarousel"
+            role="button"
+            data-bs-slide="prev"
         >
           <span
-            class="carousel-control-prev-icon bi bi-chevron-double-left"
-            aria-hidden="true"
+              class="carousel-control-prev-icon bi bi-chevron-double-left"
+              aria-hidden="true"
           ></span>
         </a>
 
         <a
-          class="carousel-control-next"
-          href="#heroCarousel"
-          role="button"
-          data-bs-slide="next"
+            class="carousel-control-next"
+            href="#heroCarousel"
+            role="button"
+            data-bs-slide="next"
         >
           <span
-            class="carousel-control-next-icon bi bi-chevron-double-right"
-            aria-hidden="true"
+              class="carousel-control-next-icon bi bi-chevron-double-right"
+              aria-hidden="true"
           ></span>
         </a>
       </div>
