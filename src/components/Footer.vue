@@ -30,7 +30,8 @@
                   <router-link to="/">Home</router-link>
                 </li>
                 <li>
-                  <i class="bx bx-chevron-right"></i> <a href="#">About SC</a>
+                  <i class="bx bx-chevron-right"></i>
+                  <router-link to="/about">About SC</router-link>
                 </li>
                 <li>
                   <i class="bx bx-chevron-right"></i>
