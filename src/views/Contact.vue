@@ -5,7 +5,7 @@
       <div class="section-title">
         <h2>Contact Us</h2>
         <p>
-          For any type of project please don't hesitate to get in touch with us.
+          For more information please don't hesitate to get in touch with us.
         </p>
       </div>
     </div>
