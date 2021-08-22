@@ -8,10 +8,11 @@
     <div class="container d-flex align-items-center justify-content-between">
       <div class="logo">
         <h1 class="text-light">
-          <router-link class="text-white nav-link scrollto active" to="/"><span class="text-white">Shelter Consult</span></router-link>
+          <router-link class="text-white nav-link scrollto active" to="/">
+            <img src="../assets/images/logo-2.png" alt="" class="img-fluid">
+            <span class="text-white">Shelter Consult</span>
+          </router-link>
         </h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav id="navbar" class="navbar">
