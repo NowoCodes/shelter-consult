@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/shelter-consult/precache-manifest.1f298af21360de12f1fd3ae1fd449200.js"
+  "/shelter-consult/precache-manifest.b8e8da4e178cecf1cc656d961392f44b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "shelter-consult"});
