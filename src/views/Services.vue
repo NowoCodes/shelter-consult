@@ -59,6 +59,6 @@ export default {
 
 <style scoped>
 .img {
-  background-image: url("../assets/img/info-box.jpg");
+  background-image: url("../assets/images/arch.jpg");
 }
 </style>

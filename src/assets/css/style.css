@@ -976,12 +976,12 @@ section {
   margin-right: 0;
 }
 
-.portfolio .portfolio-wrap {
-  transition: 0.3s;
-  position: relative;
-  overflow: hidden;
-  z-index: 1;
-}
+/*.portfolio .portfolio-wrap {*/
+/*  transition: 0.3s;*/
+/*  position: relative;*/
+/*  overflow: hidden;*/
+/*  z-index: 1;*/
+/*}*/
 
 .portfolio .portfolio-wrap::before {
   content: "";
